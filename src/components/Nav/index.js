@@ -1,5 +1,5 @@
 import React from "react";
-import { capitalizeFirstLetter } from "../../utils/helpers";
+import { capitalizeFirstLetter } from "../../assets/utils/helper";
 
 function Nav() {
   const  categories = [
